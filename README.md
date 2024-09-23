@@ -7,12 +7,17 @@
 ## Projects
 
 - [BF](...) - Our Discord server infrastructure: Discord Bot, Telegram Bot, Site (Dashboard, Information, ...) (C#, Blazor, Discord.Net, Lavalink4NET, OpenDota.NET).
-- [Small Tools](https://github.com/d1rknwh1te3/Small-Tools) - a program for some routine activities related to social networks (C#, Avalonia, ImageSharp, LiteDB).
 
-## Forks
+## API
 
 - [OpenDota.NET](https://github.com/d1rknwh1te3/OpenDota.NET) - OpenDota API wrapper (C#).
+
+## Discord Rich Presence
 - [RimWorld RPC](https://github.com/d1rknwh1te3/RimWorldRPC) - RPC for RimWorld (С#, Unity).
 - [Gothic RPC](https://github.com/d1rknwh1te3/GothicRPC) - RPC for Gothic (C++, Union).
+
+## Utilites
+
 - [VK to Discord](https://github.com/d1rknwh1te3/VKtoDiscord) - display songs from VK in Discord (Python).
 - [Spotify to VK](https://github.com/d1rknwh1te3/SpotifyToVK) - display songs from Spotify in VK (Python).
+- [Small Tools](https://github.com/d1rknwh1te3/Small-Tools) - a program for some routine activities related to social networks (C#, Avalonia, ImageSharp, LiteDB).

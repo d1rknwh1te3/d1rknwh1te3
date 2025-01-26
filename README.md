@@ -20,4 +20,3 @@
 
 - [VK to Discord](https://github.com/d1rknwh1te3/VKtoDiscord) - display songs from VK in Discord (Python).
 - [Spotify to VK](https://github.com/d1rknwh1te3/SpotifyToVK) - display songs from Spotify in VK (Python).
-- [Small Tools](https://github.com/d1rknwh1te3/Small-Tools) - a program for some routine activities related to social networks (C#, Avalonia, ImageSharp, LiteDB).

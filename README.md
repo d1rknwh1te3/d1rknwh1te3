@@ -6,7 +6,6 @@
 - [SimpleGuy](...) - W.I.P (C#, Blazor, LlamaSharp)
 - [OpenStatus](...) - W.I.P (C#, LlamaSharp)
 - [RimSharp](...) - W.I.P (C#, MAUI)
-- [GdTasks](https://github.com/d1rknwh1te3/GdTasks) - Adds async/await features in Godot for easier async coding. Based on code from Cysharp's UniTask library for Unity. (C#, _Fork_, Godot)
 
 ## API
 
